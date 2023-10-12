@@ -1,0 +1,14 @@
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\bin\Debug\net7.0\SkillFactory homework.exe
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\bin\Debug\net7.0\SkillFactory homework.deps.json
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\bin\Debug\net7.0\SkillFactory homework.runtimeconfig.json
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\bin\Debug\net7.0\SkillFactory homework.dll
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\bin\Debug\net7.0\SkillFactory homework.pdb
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\obj\Debug\net7.0\SkillFactory homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\obj\Debug\net7.0\SkillFactory homework.AssemblyInfoInputs.cache
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\obj\Debug\net7.0\SkillFactory homework.AssemblyInfo.cs
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\obj\Debug\net7.0\SkillFactory homework.csproj.CoreCompileInputs.cache
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\obj\Debug\net7.0\SkillFactory homework.dll
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\obj\Debug\net7.0\refint\SkillFactory homework.dll
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\obj\Debug\net7.0\SkillFactory homework.pdb
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\obj\Debug\net7.0\SkillFactory homework.genruntimeconfig.cache
+C:\Users\romy4\OneDrive\Рабочий стол\My Files\C#\SkillFactoryHomeWork\SkillFactory homework\SkillFactory homework\obj\Debug\net7.0\ref\SkillFactory homework.dll
